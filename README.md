@@ -7,7 +7,7 @@ Foi solicitado que os controles do R.O.B.O. possam ser realizados através de um
 
 # Ferramentas Utilizadas
 
-Sera utilizado C# .NET para o desenvolvimento do código back-end. Sera utilizado o framework ASP.NET Web APi para o desenvolvimento da API RESTful. O desenvolvimento será realizado na IDE Visual Studio Code. 
+Sera utilizado C# .NET para o desenvolvimento do código back-end. Sera utilizado o framework ASP.NET Web APi para o desenvolvimento da API RESTful. Sera utilizado o aplicativo Astah UML Editor para o desevenvolimento do diagrama de Modelagem Conceitual. O desenvolvimento será realizado na IDE Visual Studio Code. 
 
 
 
