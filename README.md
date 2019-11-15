@@ -5,6 +5,11 @@ Robô Operacional Binariamente Orientado (R.O.B.O) desenvolvido como Prova de Co
 # Problema a ser Resolvido
 Foi solicitado que os controles do R.O.B.O. possam ser realizados através de uma Web API RESTful, que interage com um back-end desenvolvido com C# .NET. Deve haver uma interface gráfica a critério do desenvolvedor, onde nela precisamos ser capazes de visualizar os estados atuais do R.O.B.O. e enviar comandos para ele.
 
+# Ferramentas Utilizadas
+
+Sera utilizado C# .NET para o desenvolvimento do código back-end. Sera utilizado o framework ASP.NET Web APi para o desenvolvimento da API RESTful. O desenvolvimento será realizado na IDE Visual Studio Code. 
+
+
 
 # Cronograma 
 
