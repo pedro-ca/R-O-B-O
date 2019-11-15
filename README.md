@@ -32,7 +32,7 @@ Sera utilizado C# .NET para o desenvolvimento do código back-end. Sera utilizad
 - Levar em consideração estados inválidos.
 
 
-# Ações previstas e possíveis estados
+# Possíveis estados
 - **Braço Esquerdo**: 
 
 	- *Cotovelo*:	
