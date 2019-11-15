@@ -18,13 +18,13 @@
 	1.12 Visualizar o estado da "Inclinação" da "Cabeça"
 	
 2. Requisitos Não Funcionais: 
-	2.1 O usuário não pode fazer requisição de um estado inválido
-	2.2 Estado inicial dos movimentos é "Em repouso"
-	2.3 Só pode movimentar o "Pulso" caso o "Cotovelo" esteja no estado "Fortemente Contraido"
-	2.4 Só pode "Rotacionar" a "Cabeça" caso sua "Inclinação" da mesma não esteja no estado "Para Baixo"
-	2.5 A representação gráfica do R.O.B.O deve se manter constantemente atualizada
-	2.6 O usuário faz a requisição para mudança de estados em uma interface gráfica WEB
-	2.7 A mudança de estado de seu membro ocorre de acordo com a requisição, no "servidor" back-end
-	2.8 O usuário visualiza os estados em uma representação gráfica do robô pela WEB
+	2.1  O usuário não pode fazer requisição de um estado inválido
+	2.2  Estado inicial dos movimentos é "Em repouso"
+	2.3  Só pode movimentar o "Pulso" caso o "Cotovelo" esteja no estado "Fortemente Contraido"
+	2.4  Só pode "Rotacionar" a "Cabeça" caso sua "Inclinação" da mesma não esteja no estado "Para Baixo"
+	2.5  A representação gráfica do R.O.B.O deve se manter constantemente atualizada
+	2.6  O usuário faz a requisição para mudança de estados em uma interface gráfica WEB
+	2.7  A mudança de estado de seu membro ocorre de acordo com a requisição, no "servidor" back-end
+	2.8  O usuário visualiza os estados em uma representação gráfica do robô pela WEB
 	
 	

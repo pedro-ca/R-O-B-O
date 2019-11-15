@@ -37,53 +37,79 @@ Sera utilizado C# .NET para o desenvolvimento do código back-end. Sera utilizad
 
 	- *Cotovelo*:	
 	
-		1. Em Repouso
-		2. Levemente Contraído
-		3. Contraído
-		4. Fortemente Contraído
+		1.Em Repouso
+		
+		2.Levemente Contraído
+		
+		3.Contraído
+		
+		4.Fortemente Contraído
+		
 
 	- *Pulso*:
-		1. Rotação para -90º
-		2. Rotação para -45º
-		3. Em Repouso
-		4. Rotação para 45º
-		5. Rotação para 90º
-		6. Rotação para 135º
-		7. Rotação para 180º
+		1.Rotação para -90º
+		
+		2.Rotação para -45º
+		
+		3.Em Repouso
+		
+		4.Rotação para 45º
+		
+		5.Rotação para 90º
+		
+		6.Rotação para 135º
+		
+		7.Rotação para 180º
 		
 - **Braço Direito**: 
 
 	- *Cotovelo*:	
 	
-		1. Em Repouso
-		2. Levemente Contraído
-		3. Contraído
-		4. Fortemente Contraído
+		1.Em Repouso
+		
+		2.Levemente Contraído
+		
+		3.Contraído
+		
+		4.Fortemente Contraído
 
 	- *Pulso*:
-		1. Rotação para -90º
-		2. Rotação para -45º
-		3. Em Repouso
-		4. Rotação para 45º
-		5. Rotação para 90º
-		6. Rotação para 135º
-		7. Rotação para 180º
+	
+		1.Rotação para -90º
+		
+		2.Rotação para -45º
+		
+		3.Em Repouso
+		
+		4.Rotação para 45º
+		
+		5.Rotação para 90º
+		
+		6.Rotação para 135º
+		
+		7.Rotação para 180º
 
 - **Cabeça**: 
 
 	- *Rotação*:
 	
-		1. Rotação -90º
-		2. Rotação -45º
-		3. Em Repouso
-		4. Rotação 45º
-		5. Rotação 90º
+		1.Rotação -90º
+		
+		2.Rotação -45º
+		
+		3.Em Repouso
+		
+		4.Rotação 45º
+		
+		5.Rotação 90º
 		
 	- *Inclinação*: 
 		
-		1. Para Cima
-		2. Em Repouso
-		3. Para Baixo
+		1.Para Cima
+		
+		2.Em Repouso
+		
+		3.Para Baixo
 
 
 
