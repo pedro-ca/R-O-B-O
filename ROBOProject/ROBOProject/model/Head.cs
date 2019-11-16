@@ -2,9 +2,8 @@
 {
     class Head
     {
-        private int rotation;
-        private int inclination;
-
+        private int rotation;          
+        private int inclination;    
 
 
         public Head(int rotation, int inclination)
@@ -13,16 +12,11 @@
             this.inclination = inclination;
         }
 
-        public void updateRotation()
+        public Head()       //Construtor Default com membros "Em repouso"
         {
-            //code here
+            rotation = 3;
+            inclination = 2; 
         }
-        public void updateInclination()
-        {
-            //code here
-        }
-
-
 
 
         //Getter e Setters
@@ -45,7 +39,6 @@
         {
             inclination = value;
         }
-
 
 
         //toString

@@ -4,8 +4,8 @@ C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\bin\Debug\netcor
 C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\bin\Debug\netcoreapp3.0\ROBOProject.runtimeconfig.dev.json
 C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\bin\Debug\netcoreapp3.0\ROBOProject.dll
 C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\bin\Debug\netcoreapp3.0\ROBOProject.pdb
-C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\obj\Debug\netcoreapp3.0\ROBOProject.csprojAssemblyReference.cache
 C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\obj\Debug\netcoreapp3.0\ROBOProject.AssemblyInfoInputs.cache
 C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\obj\Debug\netcoreapp3.0\ROBOProject.AssemblyInfo.cs
 C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\obj\Debug\netcoreapp3.0\ROBOProject.dll
 C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\obj\Debug\netcoreapp3.0\ROBOProject.pdb
+C:\Users\Bleyc\Documents\GitHub\R.O.B.O\ROBOProject\ROBOProject\obj\Debug\netcoreapp3.0\ROBOProject.csprojAssemblyReference.cache
