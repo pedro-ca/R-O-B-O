@@ -47,6 +47,7 @@ Sera utilizado C# .NET para o desenvolvimento do código back-end. Sera utilizad
 		
 
 	- *Pulso*:
+	
 		1.Rotação para -90º
 		
 		2.Rotação para -45º
