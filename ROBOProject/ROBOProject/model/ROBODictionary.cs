@@ -29,7 +29,7 @@ namespace ROBOProject.model
         };
         Dictionary<int, string> dictWristState = new Dictionary<int, string>()     //Nomes para rotação do pulso (Direito e Esquerdo)
         {
-            { 1,"Rotação em -90o"},
+            {1,"Rotação em -90o"},
             {2,"Rotação em -45o"},
             {3,"Em Repouso"},
             {4,"Rotação em 45o"},
