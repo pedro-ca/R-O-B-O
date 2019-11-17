@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ROBOProject.model
 {
@@ -55,19 +53,6 @@ namespace ROBOProject.model
         public override string ToString()
         {
             return base.ToString();
-        }
-
-        public override bool Equals(object obj)
-        {
-            return obj is Arm arm &&
-                   wrist == arm.wrist &&
-                   elbow == arm.elbow &&
-                   side == arm.side;
-        }
-
-        public override int GetHashCode()
-        {
-            return HashCode.Combine(wrist, elbow, side);
         }
     }
 }

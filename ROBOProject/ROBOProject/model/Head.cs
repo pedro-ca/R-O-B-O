@@ -43,17 +43,5 @@ namespace ROBOProject.model
         {
             return base.ToString();
         }
-
-        public override bool Equals(object obj)
-        {
-            return obj is Head head &&
-                   rotation == head.rotation &&
-                   inclination == head.inclination;
-        }
-
-        public override int GetHashCode()
-        {
-            return HashCode.Combine(rotation, inclination);
-        }
     }
 }
