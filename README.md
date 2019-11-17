@@ -15,9 +15,9 @@ Sera utilizado C# .NET para o desenvolvimento do código back-end. Sera utilizad
 
 - **1o Dia:** Levantamento de Requisitos, metas e engenharia de Software
 
-- **2o Dia:** Back-end, desenvolvimento de funcionalidades (Código C# .NET e inicio da API RESTful)
+- **2o Dia:** Back-end, desenvolvimento de funcionalidades (Código C# .NET)
 
-- **2o Dia:** Finalização da API RESTful, interface, aparencia e ultimos retoques
+- **2o Dia:** Início da API RESTful, interface, aparencia e ultimos retoques
 
 
 # Restrições para o Funcionamento 
