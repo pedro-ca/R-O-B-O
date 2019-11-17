@@ -19,7 +19,6 @@ namespace ROBOProject.model
         }
 
 
-        //Getters e Setters
         public Arm GetRightArm()
         {
             return rightArm;
@@ -49,6 +48,19 @@ namespace ROBOProject.model
         public override string ToString()
         {
             return base.ToString();
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is ROBO rOBO &&
+                   EqualityComparer<Head>.Default.Equals(head, rOBO.head) &&
+                   EqualityComparer<Arm>.Default.Equals(rightArm, rOBO.rightArm) &&
+                   EqualityComparer<Arm>.Default.Equals(leftArm, rOBO.leftArm);
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(head, rightArm, leftArm);
         }
     }
 }

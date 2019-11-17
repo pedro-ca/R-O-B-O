@@ -1,4 +1,6 @@
-﻿namespace ROBOProject.model
+﻿using System;
+
+namespace ROBOProject.model
 {
     class Head
     {
@@ -19,32 +21,39 @@
         }
 
 
-        //Getter e Setters
         public int GetRotation()
         {
             return rotation;
         }
-
         public void SetRotation(int value)
         {
             rotation = value;
         }
-
         public int GetInclination()
         {
             return inclination;
         }
-
         public void SetInclination(int value)
         {
             inclination = value;
         }
 
 
-        //toString
         public override string ToString()
         {
             return base.ToString();
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Head head &&
+                   rotation == head.rotation &&
+                   inclination == head.inclination;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(rotation, inclination);
         }
     }
 }

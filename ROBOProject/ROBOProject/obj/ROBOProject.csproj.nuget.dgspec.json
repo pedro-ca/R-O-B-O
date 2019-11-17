@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Catel.MVVM": {
+              "target": "Package",
+              "version": "[5.11.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
