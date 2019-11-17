@@ -6,3 +6,14 @@ ROBOProject/.vs/ROBOProject/v16/Server/sqlite3/storage.ide
 ROBOProject/ROBOProject.sln
 ROBOProject/ROBOProject/ROBOProject.csproj
 ROBOProject/ROBOProject/ROBOProject.csproj.user
+ROBOProject/ROBOProject/obj/ROBOProject.csproj.nuget.g.targets
+*.props
+ROBOProject/ROBOProject/obj/ROBOProject.csproj.nuget.cache
+ROBOProject/ROBOProject/obj/ROBOProject.csproj.nuget.cache
+ROBOProject/ROBOProject/obj/project.assets.json
+ROBOProject/ROBOProject/obj/Debug/netcoreapp3.0/ROBOProject.AssemblyInfo.cs
+ROBOProject/ROBOProject/obj/Debug/netcoreapp3.0/ROBOProject.AssemblyInfoInputs.cache
+ROBOProject/ROBOProject/obj/Debug/netcoreapp3.0/ROBOProject.assets.cache
+ROBOProject/ROBOProject/obj/Debug/netcoreapp3.0/ROBOProject.csproj.FileListAbsolute.txt
+ROBOProject/ROBOProject/obj/ROBOProject.csproj.nuget.dgspec.json
+ROBOProject/ROBOProject/obj/Debug/netcoreapp3.0/ROBOProject.csprojAssemblyReference.cache
