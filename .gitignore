@@ -53,3 +53,4 @@ ROBOApi/ROBOApi/obj/project.assets.json
 ROBOApi/ROBOApi/obj/ROBOApi.csproj.nuget.dgspec.json
 ROBOApi/ROBOApi/obj/ROBOApi.csproj.nuget.g.targets
 ROBOApi/.vs/ROBOApi/config/applicationhost.config
+ROBOApi/ROBOApi/bin/Debug/netcoreapp3.0/ROBOApi.runtimeconfig.json
