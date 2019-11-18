@@ -26,5 +26,6 @@
 	2.6  A mudança de estado de seu membro ocorre de acordo com a requisição, no "servidor" back-end
 	2.7  O usuário visualiza os estados em uma representação R.O.B.O do pela WEB
 	2.8  A representação WEB do R.O.B.O deve se manter constantemente atualizada
+	2.9  O usuário deve poder visualizar o nome exato do movimento, e não somente seu id
 	
 	
