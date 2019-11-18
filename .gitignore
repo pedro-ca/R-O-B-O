@@ -29,6 +29,8 @@ ROBOApi/ROBOApi/appsettings.Development.json
 ROBOApi/ROBOApi/ROBOApi.csproj
 ROBOApi/.vs/ROBOApi/DesignTimeBuild/.dtbcache
 *.ide-shm
+ROBOApi/.vs/ROBOApi/v16/Server/sqlite3/storage.ide-wal
+ROBOApi/ROBOApi/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
 ROBOApi/ROBOApi/bin/Debug/netcoreapp3.0/ROBOApi.runtimeconfig.dev.json
 ROBOApi/ROBOApi/bin/Debug/netcoreapp3.0/ROBOApi.Views.pdb
 ROBOApi/ROBOApi/bin/Debug/netcoreapp3.0/ROBOApi.Views.pdb
@@ -50,3 +52,4 @@ ROBOApi/ROBOApi/obj/Debug/netcoreapp3.0/staticwebassets/ROBOApi.StaticWebAssets.
 ROBOApi/ROBOApi/obj/project.assets.json
 ROBOApi/ROBOApi/obj/ROBOApi.csproj.nuget.dgspec.json
 ROBOApi/ROBOApi/obj/ROBOApi.csproj.nuget.g.targets
+ROBOApi/.vs/ROBOApi/config/applicationhost.config
