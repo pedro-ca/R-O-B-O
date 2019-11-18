@@ -1,4 +1,4 @@
-﻿using ROBOProject.controller;
+﻿using ROBOProject.func;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -6,15 +6,18 @@ using System.Threading;
 
 namespace ROBOProject.model
 {
+    //PARA DEBUG
+    //nao sera utilizado no produto final
     class Tester
     {
+        /*
         static void Main(string[] args)
         {
             int timeTick;           //Para simular a passagem de tempo (1 timeTick == 1 seg)
             Boolean isUpdated = false;
 
             //Declaracao do ROBO atual
-            ROBOControl controller = new ROBOControl();
+            ROBOFunc controller = new ROBOFunc();
             Arm lArm = new Arm("Left");
             Arm rArm = new Arm("Right");
             Head head = new Head();
@@ -31,9 +34,9 @@ namespace ROBOProject.model
             for (timeTick = 0; true; timeTick++)        //loop infinito de execução
             {
                 controller.manualSet(roboGoal);
-                
+
                 //timeTick e isUpdated nao estao funcionando direito
-                while(!isUpdated)
+                while (!isUpdated)
                 {
                     controller.CompleteUpdate(robo, roboGoal);
                     Thread.Sleep(1000);
@@ -42,6 +45,6 @@ namespace ROBOProject.model
                 }
             }
 
-        }
+        }*/
     }
 }

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ROBOProject.controller
+namespace ROBOProject.func
 {
     class ROBOControl 
     {
