@@ -4,12 +4,12 @@
 
 1. Requisitos Funcionais:
 	
-	1.1  Gerenciar o estado do "Cotovelo" do "Braço Esquerdo"
-	1.2  Gerenciar o estado do "Cotovelo" do "Braço Direito"
-	1.3  Gerenciar o estado do "Pulso" do "Braço Esquerdo"
-	1.4  Gerenciar o estado do "Pulso" do "Braço Direito"
-	1.5  Gerenciar o estado da "Rotação" da "Cabeça"
-	1.6  Gerenciar o estado da "Inclinação" da "Cabeça"
+	1.1  Modificar o estado do "Cotovelo" do "Braço Esquerdo"
+	1.2  Modificar o estado do "Cotovelo" do "Braço Direito"
+	1.3  Modificar o estado do "Pulso" do "Braço Esquerdo"
+	1.4  Modificar o estado do "Pulso" do "Braço Direito"
+	1.5  Modificar o estado da "Rotação" da "Cabeça"
+	1.6  Modificar o estado da "Inclinação" da "Cabeça"
 	1.7  Visualizar o estado do "Cotovelo" do "Braço Esquerdo"
 	1.8  Visualizar o estado do "Cotovelo" do "Braço Direito"
 	1.9  Visualizar o estado do "Pulso" do "Braço Esquerdo"
@@ -26,5 +26,6 @@
 	2.6  A mudança de estado de seu membro ocorre de acordo com a requisição, no "servidor" back-end
 	2.7  O usuário visualiza os estados em uma representação R.O.B.O do pela WEB
 	2.8  A representação WEB do R.O.B.O deve se manter constantemente atualizada
+	2.9  O usuário deve poder visualizar o nome exato do movimento, e não somente seu id
 	
 	
