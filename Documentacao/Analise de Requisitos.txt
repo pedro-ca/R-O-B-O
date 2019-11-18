@@ -24,7 +24,7 @@
 	2.4  Só pode "Rotacionar" a "Cabeça" caso sua "Inclinação" da mesma não esteja no estado "Para Baixo"
 	2.5  O usuário faz a requisição para mudança de estados em uma interface gráfica WEB
 	2.6  A mudança de estado de seu membro ocorre de acordo com a requisição, no "servidor" back-end
-	2.7  O usuário visualiza os estados em uma representação R.O.B.O  do pela WEB
-	2.8  A representação WEB do R.O.B.O deve se manter constantemente atualizad
+	2.7  O usuário visualiza os estados em uma representação R.O.B.O do pela WEB
+	2.8  A representação WEB do R.O.B.O deve se manter constantemente atualizada
 	
 	
