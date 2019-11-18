@@ -3,7 +3,9 @@ using System.Collections.Generic;
 
 namespace ROBOProject.model
 {
-    class ROBODictionary    //Dicionarios com nomes do estado baseado no id
+    ///Dicionarios com nomes do estado baseado no id
+    //DEVE ser implementado no produto final
+    class ROBODictionary    
     {
         Dictionary<int, string> dictHRotation = new Dictionary<int, string>()       //Nomes para rotação da cabeça
         {

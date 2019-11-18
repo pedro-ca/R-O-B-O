@@ -18,8 +18,8 @@ namespace ROBOProject.model
 
         public Arm(string side)     //Construtor Default com membros "Em repouso"
         {
-            wrist = 1;
-            elbow = 3;
+            wrist = 3;
+            elbow = 1;
             this.side = side;
         }
 
